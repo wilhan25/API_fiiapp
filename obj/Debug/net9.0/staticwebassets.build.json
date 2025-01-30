@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zzV0+OK3xDcrzqDZoNNg0ZV7iCVY6rDLnRkmeBx7oBs=",
+  "Source": "fiiApi",
+  "BasePath": "_content/fiiApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
