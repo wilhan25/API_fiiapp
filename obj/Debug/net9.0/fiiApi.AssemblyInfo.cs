@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fiiApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b351b09bb98b82115d4aff32c4d0ad66a3dc1e33")]
 [assembly: System.Reflection.AssemblyProductAttribute("fiiApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fiiApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
